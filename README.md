@@ -9,4 +9,4 @@
 </ul>
 
 <h2>General Information</h2>
-<p> It works perfectly fine even if it can be slow because of the way it works. It opens up all the job posts one by one to get the full job descriptions. /nThere is a room for improvement, will try to make it faster, find a new way of doing it to be more efficient, optimise the code to be smaller as well.</p>
+<p> It works perfectly fine even if it can be slow because of the way it works. It opens up all the job posts one by one to get the full job descriptions. There is a room for improvement, will try to make it faster, find a new way of doing it to be more efficient, optimise the code to be smaller as well.</p>
